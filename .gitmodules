@@ -6,3 +6,7 @@
 	path = a-fa-weight
 	url = git@github.com:luftaquila/a-fa-weight.git
   branch = master
+[submodule "a-fa-schematics"]
+	path = a-fa-schematics
+	url = git@github.com:luftaquila/a-fa-schematics.git
+	branch = master
