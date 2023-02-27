@@ -1,0 +1,6 @@
+[submodule "a-fa-telemetry"]
+	path = a-fa-telemetry
+	url = git@github.com:luftaquila/a-fa-telemetry.git
+[submodule "a-fa-weight"]
+	path = a-fa-weight
+	url = git@github.com:luftaquila/a-fa-weight.git
