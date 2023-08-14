@@ -3,6 +3,8 @@
 
 아주대학교 기계공학과 자작자동차소학회 ***A-FA***의 E-Formula 팀 저장소입니다.
 
+![image](https://github.com/luftaquila/a-fa-landing/assets/17094868/32ce2f62-31a1-4b79-99b0-716d23eb1292)
+
 ### 서비스 URL
 https://a-fa.luftaquila.io/
 
